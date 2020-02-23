@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
 
-I start to learn Python
+
+I start learning Python and Java
